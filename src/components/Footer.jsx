@@ -18,8 +18,8 @@ export default function Footer() {
           <div className={styles["footer-content"]}>
             <div className={styles.con}>
               <h3>Contact Us</h3>
-              <p>Email:Info@example.com</p>
-              <p>Phone:+121 56556 565556</p>
+              <p>Email:ideal.loshi@gmail.com</p>
+              <p>Phone:+(383)49 209 906</p>
               <p>Address:Sylejman Vokshi | Prishtine</p>
             </div>
           </div>
